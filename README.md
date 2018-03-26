@@ -1,2 +1,3 @@
 # sns
-SNS Docker image with heallthcheck
+
+SNS Docker image with healthcheck
